@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Konstantin Volkov, a passionate software developer originally from Kharkiv, Ukraine 🇺🇦, currently based in Copenhagen, Denmark. 🇩🇰
+I'm Konstantin Volkov, a passionate software developer originally from Kharkiv, Ukraine 🇺🇦.
 
 I have a deep passion for technology, programming, and exploring innovative solutions to complex problems. My journey in software development has led me to focus on mobile and backend applications, where I enjoy building seamless, user-friendly, and secure software.
 
@@ -10,13 +10,14 @@ I have a deep passion for technology, programming, and exploring innovative solu
 - **Embedded Systems & IoT**: Enthusiastic about working with microcontrollers and single-board computers like Raspberry Pi, Arduino, and ESP. I enjoy developing innovative hardware solutions, automation, and IoT projects that integrate seamlessly into everyday life.
 
 ## 🔧 Tech Stack:
-- Swift / SwiftUI / UIKit  
+- Swift / SwiftUI / UIKit / StoreKit
 - SQLite  
 - Firebase  
 - Raspberry Pi / Arduino / ESP
 
 ## 🖥️ Hardware I Use:
-- MacBook Air (M1)  
+- MacBook Air (M1)
+- MacBook Pro (M4 Max)
 - Custom-built Windows PC
 
 I'm always eager to learn, innovate, and collaborate on exciting projects. Whether it's mobile apps, backend systems, or IoT solutions, I'm open to new challenges and opportunities.  
